@@ -1,5 +1,5 @@
 ### Seitaro SHINAGAWA/品川 政太朗 (CV)  
-![alt text](./contents/face.jpg)
+![alt text](./contents/face_shinagawa.jpg)
 
 
 I'm a PhD. student of Augment Human Communication laboratory (<a href="http://ahclab.naist.jp/index_en.html">AHC-lab</a>), Graduate
