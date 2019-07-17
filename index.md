@@ -24,7 +24,26 @@ tworks, Machine Learning, Artificial Intelligence
 Creating an image or illustration is a special skill for us and it takes much time. I believe that an image generation system consid
 ering natural language interaction can encourage communication between a lot of creators and clients.
 
-### Project: Image manipulation with natural language instruction
+### Past Project Demo: Image manipulation with natural language instruction
+[video download (mp4, 3.53MB)](https://github.com/SeitaroShinagawa/SeitaroShinagawa.github.io/blob/master/contents/demo_IMI.mp4)    
+[[paper](https://ahcweb01.naist.jp/papers/conference/2018/201808_MIRU_seitaro-s_1/201808_MIRU_seitaro-s_1.paper.pdf)], [[poster](https://ahcweb01.naist.jp/papers/conference/2018/201808_MIRU_seitaro-s_1/201808_MIRU_seitaro-s_1.poster.pdf)], 
+  
+  Implemented with [telegram bot](https://github.com/python-telegram-bot/python-telegram-bot)
+  
+  Getting started:
+  1. Create telegram account (if you don't have)
+  2. Access to [AIMIdemo_bot](https://t.me/AIMIdemo_bot) and start to play!  
+  
+  How to play:
+  1. An image is provided.
+  2. You can provide natural language instruction to change the given image
+  3. You can do 2. repeatedly until you are satisfied
+  (optional: input "/new" to start with a new image)
+
+  Notes: 
+  - This demo is the proposed (w/ Source image masking) model
+  - This model is fully data-driven and trained by the end-to-end manner
+  - Editable contents: hair, eyebrows, eyes, ears, earlobes, nose, cheeks, mustache, mouth, lips, beard, chin
 
 ### Skills
 Python (mainly use), Matlab, C, C++
