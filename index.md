@@ -1,4 +1,7 @@
 ### Seitaro SHINAGAWA/品川 政太朗 (CV)  
+<img src=https://github.com/SeitaroShinagawa/SeitaroShinagawa.github.io/blob/master/contents/face.jpg width=128>
+
+
 I'm a PhD. student of Augment Human Communication laboratory (<a href="http://ahclab.naist.jp/index_en.html">AHC-lab</a>), Graduate
 School of Information Science, Nara Institute of Science and Technology (NAIST), Japan
 
