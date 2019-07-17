@@ -31,14 +31,8 @@ ering natural language interaction can encourage communication between a lot of 
 [video download (mp4, 3.53MB)](https://github.com/SeitaroShinagawa/SeitaroShinagawa.github.io/blob/master/contents/demo_IMI.mp4)    
 [[paper](https://ahcweb01.naist.jp/papers/conference/2018/201808_MIRU_seitaro-s_1/201808_MIRU_seitaro-s_1.paper.pdf)], [[poster](https://ahcweb01.naist.jp/papers/conference/2018/201808_MIRU_seitaro-s_1/201808_MIRU_seitaro-s_1.poster.pdf)], 
   
-  [![](https://img.youtube.com/vi/Xz8tfC7MngQ/0.jpg)](https://www.youtube.com/watch?v=Xz8tfC7MngQ)
-  
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Xz8tfC7MngQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
   
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Xz8tfC7MngQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>    
-  
-  
-
   Implemented with [telegram bot](https://github.com/python-telegram-bot/python-telegram-bot)
   
   Getting started:
