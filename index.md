@@ -1,6 +1,17 @@
-### Seitaro SHINAGAWA/品川 政太朗 (CV)
+# Seitaro SHINAGAWA/品川 政太朗 (CV)
 I'm a PhD. student of Augment Human Communication laboratory (<a href="http://ahclab.naist.jp/index_en.html">AHC-lab</a>), Graduate
 School of Information Science, Nara Institute of Science and Technology (NAIST), Japan
+
+# Research Interest
+Dialogue-based Image Generation, Visually-grounded dialogue systems, Human-in-the-loop machine learning, Symbol Grounding, Neural Ne
+tworks, Machine Learning, Artificial Intelligence
+
+### Dialogue-based Image Generation</h3>
+Creating an image or illustration is a special skill for us and it takes much time. I believe that an image generation system consid
+ering natural language interaction can encourage communication between a lot of creators and clients.
+
+#### Project: Image manipulation with natural language instruction
+
 
 ### Designer Templates
 We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
