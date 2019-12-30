@@ -1,4 +1,4 @@
-### Seitaro SHINAGAWA/品川 政太朗 (CV)  
+### Seitaro SHINAGAWA/品川 政太朗 ([CV](https://github.com/SeitaroShinagawa/SeitaroShinagawa.github.io/blob/master/contents/CV_SeitaroShinagawa.pdf))  
 ![alt text](./contents/face_shinagawa.jpg)
 
 
