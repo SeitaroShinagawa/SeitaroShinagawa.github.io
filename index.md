@@ -1,4 +1,4 @@
-### Seitaro SHINAGAWA/品川 政太朗 ([CV](https://github.com/SeitaroShinagawa/SeitaroShinagawa.github.io/blob/master/contents/CV_SeitaroShinagawa.pdf))  
+### Seitaro SHINAGAWA/品川 政太朗   
 ![alt text](./contents/face_shinagawa.jpg)
 
 I'm a Researcher of Augment Human Communication laboratory (<a href="http://ahclab.naist.jp/index_en.html">AHC-lab</a>), Graduate
