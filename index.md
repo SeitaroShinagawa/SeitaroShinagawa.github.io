@@ -91,7 +91,7 @@ Title: High Context Multimodal Dialog Corpus in Werewolf Games
 <b>Journal Papers (peer reviewed)</b>  
 - Seitaro Shinagawa, Koichiro Yoshino, Seyed Hossein Alavi, Kallirroi Georgila, David Traum, Sakti Sakriani, Satoshi Nakamura.  
 An Interactive Image Editing System using an Uncertainty-based Confirmation Strategy.  
-IEEE Acces (accepted on May 11, 2020)
+In IEEE Access, doi: 10.1109/ACCESS.2020.2997012. [IEEE Access](https://ieeexplore.ieee.org/document/9099288)  
 
 - Seitaro Shinagawa, Koichiro Yoshino, Sakti Sakriani, Yu Suzuki, Satoshi Nakamura.  
 Image Manipulation System with Natural Language Instruction.  
