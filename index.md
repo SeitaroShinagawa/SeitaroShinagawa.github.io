@@ -107,6 +107,10 @@ Interactive image manipulation with natural language instruction commands.
 NIPS workshop, 2017.[ArXiv](https://arxiv.org/abs/1802.08645), [NIPS ViGIL workshop](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/interactive_image_%20manipulation.pdf)
 
 <b>Conference Papers (without review)</b>
+- 森島 僚平, 久保 尋之, 舩冨 卓哉, 品川 政太朗, 前島 謙宣, 中村 哲, 向川 康博.  
+アニメフレームの単純化を利用した深層学習による中割り生成.  
+映像表現・芸術科学フォーラム（画像電⼦学会第 293 回研究会）, 2020.  
+
 - 石井 大地，久保 尋之，品川 政太朗，舩冨 卓哉，前島 謙宣，中村 哲，向川 康博.  
 セマンティックセグメンテーションと閉領域内のラベル投票によるアニメ線画の自動彩色.  
 電子情報通信学会パターン認識・メディア理解 PRMU）研究会，2019.  
