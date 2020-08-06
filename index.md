@@ -98,6 +98,10 @@ Image Manipulation System with Natural Language Instruction.
 IEICE Transactions on Information and Systems, Vol.J102-D, No.8, pp.514--529, August, 2019. [PDF](https://search.ieice.org/bin/summary_advpub.php?id=2018IUT0001&category=D&lang=J&abst=)  
 
 <b>Conference Papers (peer reviewed)</b> 
+- Daichi Ishii, Hiroyuki Kubo, Seitaro Shinagawa, Akinobu Maejima, Takuya Funatomi, Satoshi Nakamura, Yasuhiro Mukaigawa.  
+Confidence-aware Practical Anime-style Colorization.  
+SIGGRAPH (Talk), 2020.(accepted)  
+
 - Sara Asai, Koichiro Yoshino, Seitaro Shinagawa, Sakriani Sakti, Satoshi Nakamura.  
 Emotional Speech Corpus for Persuasive Dialogue System.  
 In Proceedings of 12th International Conference on Language Resources and Evaluation, Marseilles, France, 2020 (Accepted)  
@@ -107,6 +111,10 @@ Interactive image manipulation with natural language instruction commands.
 NIPS workshop, 2017.[ArXiv](https://arxiv.org/abs/1802.08645), [NIPS ViGIL workshop](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/interactive_image_%20manipulation.pdf)
 
 <b>Conference Papers (without review)</b>
+- 品川政太朗, 吉野幸一郎, Seyed Hossein Alavi, Kallirroi Georgila, David Traum, Sakriani Sakti, 中村哲.  
+自然言語による編集要求に対して効率的に確認を行う対話的画像編集システム.  
+第23回 画像の認識・理解シンポジウム (MIRU), IS3-2-11, Aug. 2020.   
+
 - 森島 僚平, 久保 尋之, 舩冨 卓哉, 品川 政太朗, 前島 謙宣, 中村 哲, 向川 康博.  
 アニメフレームの単純化を利用した深層学習による中割り生成.  
 映像表現・芸術科学フォーラム（画像電⼦学会第 293 回研究会）, 2020.  
