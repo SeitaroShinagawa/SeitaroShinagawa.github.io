@@ -104,7 +104,7 @@ SIGGRAPH (Talk), 2020.(accepted)
 
 - Sara Asai, Koichiro Yoshino, Seitaro Shinagawa, Sakriani Sakti, Satoshi Nakamura.  
 Emotional Speech Corpus for Persuasive Dialogue System.  
-In Proceedings of 12th International Conference on Language Resources and Evaluation, Marseilles, France, 2020 (Accepted)  
+In Proceedings of 12th International Conference on Language Resources and Evaluation, Marseilles, France, 2020. 
 
 - S.Shinagawa, K.Yoshino, S.Sakuriani, Y.Suzuki, S.Nakamura.  
 Interactive image manipulation with natural language instruction commands.  
