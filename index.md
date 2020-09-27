@@ -1,4 +1,4 @@
-### Seitaro SHINAGAWA/品川 政太朗   
+### Seitaro SHINAGAWA/品川 政太朗, Doctor of Engineering
 ![alt text](./contents/face_shinagawa.jpg)
 
 I'm a Researcher of Augment Human Communication laboratory (<a href="http://ahclab.naist.jp/index_en.html">AHC-lab</a>), Graduate
