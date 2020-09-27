@@ -5,7 +5,7 @@ I'm a Researcher of Augment Human Communication laboratory (<a href="http://ahcl
 School of Information Science, Nara Institute of Science and Technology (NAIST), Japan
 
 ### Bio:  
-Seitaro Shinagawa received his B.E degree and M.S. degree in information science in 2013 and 2015 from Tohoku University, respectively. From 2015 to 2020, he was a Ph.D. student of the Graduate School of Information Science, Nara Institute of Science and Technology (NAIST). From 2020, he is a researcher in NAIST. His working area is visually-grounded dialogue systems, especially interactive image generation system with dialogue. He is a member of JSAI.
+Seitaro Shinagawa received his B.E degree and M.S. degree in information science in 2013 and 2015 from Tohoku University, respectively. He received Doctor degree of Engineering in 2020 from Nara Institute of Science and Technology. From 2020, he is a researcher in NAIST. His working area is visually-grounded dialogue systems, especially interactive image generation system with dialogue. He is a member of JSAI.
 
 ### Contact
 - Mail: shinagawa.seitaro.si8_is.naist.jp (replace underbar with @)   
