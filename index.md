@@ -164,7 +164,7 @@ The 3rd RIEC International Symposium on Brain Functions and Brain Computer, 2015
 2013年電子情報通信学会総合大会，ISS-P-252,2014.  
 
 ### Invited Talks
-- 第245回自然言語処理研究会 招待講演  
+- 第245回自然言語処理研究会 招待講演 (2020.09.30)  
 Vision&Language研究のこれまで・これからと，日本でのコミュニティ形成の試み  
 [link](https://nl-ipsj.or.jp/2020/09/10/nl245-program/), [slide](https://speakerdeck.com/sei88888/2020-dot-09-dot-30-nlyan-zhao-dai-jiang-yan-vision-and-languagefalseyan-jiu-dong-xiang)  
 
