@@ -1,14 +1,13 @@
 ### Seitaro SHINAGAWA/品川 政太朗, Doctor of Engineering
 ![alt text](./contents/face_shinagawa.jpg)
 
-I'm a Researcher of Augment Human Communication laboratory (<a href="http://ahclab.naist.jp/index_en.html">AHC-lab</a>), Graduate
-School of Information Science, Nara Institute of Science and Technology (NAIST), Japan
+I'm an Assistant Professor at Augment Human Communication laboratory (<a href="http://ahclab.naist.jp/index_en.html">AHC-lab</a>), Division of Information Science, Graduate School of Science and Technology, Nara Institute of Science and Technology (NAIST), Japan
 
 ### Bio:  
-Seitaro Shinagawa received his B.E degree and M.S. degree in information science in 2013 and 2015 from Tohoku University, respectively. He received Doctor degree of Engineering in 2020 from Nara Institute of Science and Technology. From 2020, he is a researcher in NAIST. His working area is visually-grounded dialogue systems, especially interactive image generation system with dialogue. He is a member of JSAI.
+Seitaro Shinagawa received his B.E degree and M.S. degree in information science in 2013 and 2015 from Tohoku University, respectively. He received Doctor degree of Engineering in 2020 from Nara Institute of Science and Technology. From 2020, he is an Assistant Professor in NAIST. His working area is visually-grounded dialogue systems, especially interactive image generation system with dialogue. He is a member of JSAI.
 
 ### Contact
-- Mail: shinagawa.seitaro.si8_is.naist.jp (replace underbar with @)   
+- Mail: sei.shinagawa_is.naist.jp (replace underbar with @)   
 - Address:   
 
   (EN) Augmented Human Communication Laboratory
