@@ -74,8 +74,13 @@ c phenomena associated with Electrical Engineering
 2019 March 14 - June 19, Internship at The University of Southern California Institute for Creative Technologies  
 - Collaborate with David TRAUM lab
 
-2020 -, Nara Institute of Science and Technology(NAIST)
-- I'm a Researcher at Augmented Human Communication laboratory(AHC-lab), Graduate School of Information Sciences.
+2020 April 1 - 2020 October 31, Nara Institute of Science and Technology(NAIST)
+- Researcher at Augmented Human Communication laboratory(AHC-lab).  
+- Working on multi-modal dialogue systems for [TAPAS project](https://ahcweb01.naist.jp/research/anr-crest-tapas/).
+- Working on Anime colorization collaborating with OLM Digital.
+
+2020 Novenber 1, Nara Institute of Science and Technology(NAIST)  
+- Assistant Professor at Augmented Human Communication laboratory(AHC-lab)
 - Working on multi-modal dialogue systems for [TAPAS project](https://ahcweb01.naist.jp/research/anr-crest-tapas/).
 - Working on Anime colorization collaborating with OLM Digital.
 
@@ -110,63 +115,64 @@ Interactive image manipulation with natural language instruction commands.
 NIPS workshop, 2017.[ArXiv](https://arxiv.org/abs/1802.08645), [NIPS ViGIL workshop](https://github.com/nips2017vigil/nips2017vigil.github.io/raw/master/papers/2017/interactive_image_%20manipulation.pdf)
 
 <b>Conference Papers (without review)</b>
-- 品川政太朗, 吉野幸一郎, Seyed Hossein Alavi, Kallirroi Georgila, David Traum, Sakriani Sakti, 中村哲.  
-自然言語による編集要求に対して効率的に確認を行う対話的画像編集システム.  
-第23回 画像の認識・理解シンポジウム (MIRU), IS3-2-11, Aug. 2020.   
+- 品川政太朗, 吉野幸一郎, Seyed Hossein Alavi, Kallirroi Georgila, David Traum, Sakriani Sakti, 中村哲．  
+自然言語による編集要求に対して効率的に確認を行う対話的画像編集システム．  
+第23回 画像の認識・理解シンポジウム (MIRU), IS3-2-11, Aug. 2020．   
 
-- 森島 僚平, 久保 尋之, 舩冨 卓哉, 品川 政太朗, 前島 謙宣, 中村 哲, 向川 康博.  
-アニメフレームの単純化を利用した深層学習による中割り生成.  
-映像表現・芸術科学フォーラム（画像電⼦学会第 293 回研究会）, 2020.  
+- 森島 僚平, 久保 尋之, 舩冨 卓哉, 品川 政太朗, 前島 謙宣, 中村 哲, 向川 康博．  
+アニメフレームの単純化を利用した深層学習による中割り生成．  
+映像表現・芸術科学フォーラム（画像電⼦学会第 293 回研究会）, 2020．  
 
-- 石井 大地，久保 尋之，品川 政太朗，舩冨 卓哉，前島 謙宣，中村 哲，向川 康博.  
-セマンティックセグメンテーションと閉領域内のラベル投票によるアニメ線画の自動彩色.  
-電子情報通信学会パターン認識・メディア理解 PRMU）研究会，2019.  
+- 石井 大地，久保 尋之，品川 政太朗，舩冨 卓哉，前島 謙宣，中村 哲，向川 康博．  
+セマンティックセグメンテーションと閉領域内のラベル投票によるアニメ線画の自動彩色．  
+電子情報通信学会パターン認識・メディア理解 PRMU）研究会，2019．  
 
-- 浅井 沙良，品川 政太朗，吉野 幸一郎，サクリアニ サクティ，中村 哲.  
-説得対話システムにおける感情表現を反映させた応答生成モデルの構築.  
-情報処理学会第240回自然言語処理研究会，2019  
+- 浅井 沙良，品川 政太朗，吉野 幸一郎，サクリアニ サクティ，中村 哲．  
+説得対話システムにおける感情表現を反映させた応答生成モデルの構築．  
+情報処理学会第240回自然言語処理研究会，2019．    
 
 - Seitaro Shinagawa, Koichiro Yoshino, Sakriani Sakti, Yu Suzuki, Satoshi Nakamura. 
 Interactive Avatar Image Manipulation with Unconstrained Natural Language Instruction using Source Image Masking.  
 The 21st Meeting on Image Recognition and Understanding (MIRU), OS2-S3, 2018.  
 【Selected as short oral】【Student Award】  
 
-- 品川 政太朗，吉野 幸一郎，サクティ サクリアニ，中村 哲.  
-DNNによる画像操作システム”，電子情報通信学会パターン認識・メディア理解（PRMU）研究会，2017.  
+- 品川 政太朗，吉野 幸一郎，サクティ サクリアニ，中村 哲．  
+DNNによる画像操作システム．  
+電子情報通信学会パターン認識・メディア理解（PRMU）研究会，2017．  
 【PRMU月間ベストプレゼンテーション賞】  
 
-- 生田 和也, 品川 政太朗, 吉野 幸一郎, 鈴木 優, 中村 哲.  
-伝達内容を考慮して言語化するニューラル言語生成の検討.  
-情報処理学会 第232回自然言語処理（NL）研究会，2017.  
+- 生田 和也, 品川 政太朗, 吉野 幸一郎, 鈴木 優, 中村 哲．  
+伝達内容を考慮して言語化するニューラル言語生成の検討．  
+情報処理学会 第232回自然言語処理（NL）研究会，2017．  
 
-- 品川政太朗，吉野幸一郎、ニュービッググラム，中村哲.  
-キャプションからの画像生成を行うニューラルネットへの対話的修正の導入と検討.  
-2016年度人工知能学会全国大会，1A4-OS-27b-4,2016.  
+- 品川政太朗，吉野幸一郎、ニュービッググラム，中村哲．  
+キャプションからの画像生成を行うニューラルネットへの対話的修正の導入と検討．  
+2016年度人工知能学会全国大会，1A4-OS-27b-4,2016．  
 
-- 品川政太朗，早川吉弘，中島康治.  
-量子化結合ニューラルネットワークの多層化による認識精度の向上.  
-2015年電子情報通信学会総合大会，ISS-SP-217,2015.  
+- 品川政太朗，早川吉弘，中島康治．  
+量子化結合ニューラルネットワークの多層化による認識精度の向上．  
+2015年電子情報通信学会総合大会，ISS-SP-217,2015．  
 
-- Seitaro Shinagawa，Yoshihiro Hayakawa，Koji Nakajima.  
-Mitigation of degrading with weight quantization in deep neural networks.  
-The 3rd RIEC International Symposium on Brain Functions and Brain Computer, 2015.  
+- Seitaro Shinagawa，Yoshihiro Hayakawa，Koji Nakajima．    
+Mitigation of degrading with weight quantization in deep neural networks．  
+The 3rd RIEC International Symposium on Brain Functions and Brain Computer, 2015．  
 
-- 品川政太朗，早川吉弘，小野美武，中島康治.  
-プレトレーニングで得られるディープニューラルネットワークの学習初期値に関する考察.  
-信学技報，vol.114,No.326,NC2014-27(2014-11),pp.11-14,2014.  
+- 品川政太朗，早川吉弘，小野美武，中島康治．  
+プレトレーニングで得られるディープニューラルネットワークの学習初期値に関する考察．  
+信学技報，vol.114,No.326,NC2014-27(2014-11),pp.11-14,2014．  
 
-- 品川政太朗，早川吉弘，佐藤茂雄，小野美武，中島康治.  
-学習パラメータを離散化した制限付きボルツマンマシンの学習の検討.  
-信学技報 vol.114,No.113, NLP2014-06-30,pp.37-40,2014.  
+- 品川政太朗，早川吉弘，佐藤茂雄，小野美武，中島康治．  
+学習パラメータを離散化した制限付きボルツマンマシンの学習の検討．  
+信学技報 vol.114,No.113, NLP2014-06-30,pp.37-40,2014．  
 
 - 品川政太朗，佐藤茂雄，早川吉弘，中島康治.  
-深層学習のハードウェア化を目指した荷重値離散化RBMの学習に関する研究.  
-2013年電子情報通信学会総合大会，ISS-P-252,2014.  
+深層学習のハードウェア化を目指した荷重値離散化RBMの学習に関する研究．  
+2013年電子情報通信学会総合大会，ISS-P-252,2014．  
 
 ### Invited Talks
-- 品川 政太朗, 久保 尋之, 石井 大地, 前島 謙宣, 舩冨 卓哉, 中村 哲, 向川 康博．  
-セマンティックセグメンテーションに基づくアニメ作品の自動彩色 (応用論文)  
-Visual Computing 2020
+- 品川 政太朗，久保 尋之，石井 大地，前島 謙宣，舩冨 卓哉，中村 哲，向川 康博．  
+セマンティックセグメンテーションに基づくアニメ作品の自動彩色 (応用論文)．  
+Visual Computing 2020．  
 
 - 品川政太朗．  
 第245回自然言語処理研究会 招待講演 (2020.09.30)  
