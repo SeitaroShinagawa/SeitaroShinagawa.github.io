@@ -62,14 +62,16 @@ c phenomena associated with Electrical Engineering
 ### Educational History
 2009 - 2013, Tohoku University
 - Bachelor degree of Engineering, Graduated from Intelligence Computing course, Engineering, Supervisor: Koji NAKAJIMA
-- <b>Bachelor thesis</b>, nullclineによるHodgkin-Huxley近似方程式の動作と結合特性の解析, Supervisor: Koji NAKAJIMA
+- <b>Bachelor thesis</b>, nullclineによるHodgkin-Huxley近似方程式の動作と結合特性の解析
 
 2013 - 2015, Tohoku University
 - Master degree of Information Science, Graduated from Applied Information Sciences, Graduate School of Information Sciences, Supervisor: Koji NAKAJIMA
-- <b>Master Thesis</b>, 量子化結合ニューラルネットワークの深層学習に関する研究 (A Study of Deep Neural Networks with Quantized Weights), Supervisor: Koji NAKAJIMA
+- <b>Master Thesis</b>, 量子化結合ニューラルネットワークの深層学習に関する研究 (A Study of Deep Neural Networks with Quantized Weights)
 
 2015 - 2020, Nara Institute of Science and Technology(NAIST)  
 - During this time, I was a Ph.D student of Augmented Human Communication laboratory(AHC-lab), Graduate School of Information Sciences, Supervisor: Satoshi NAKAMURA
+- Doctor degree of Engineering on September 2020.  
+-  <b>Doctor Thesis</b>, [A Conversational System for Interactive Image Editing](https://library.naist.jp/mylimedio/dllimedio/showpdf2.cgi/DLPDFR016583_P1-111)   
 
 2019 March 14 - June 19, Internship at The University of Southern California Institute for Creative Technologies  
 - Collaborate with David TRAUM lab
